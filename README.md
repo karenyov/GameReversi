@@ -2,8 +2,10 @@
 
 Projeto desenvolvido na FATEC SJC, trata-se do Jogo Reversi multiplayer desenvolvido em JAVA.
 
-![alt tag](https://github.com/karenyov/JogoTanque/blob/master/img-project/arena.jpg)
-![alt tag](https://github.com/karenyov/JogoTanque/blob/master/img-project/chefao.jpg)
+![alt tag](https://github.com/karenyov/GameReversi/blob/master/img-project/main.jpg)
+![alt tag](https://github.com/karenyov/GameReversi/blob/master/img-project/personagem.jpg)
+![alt tag](https://github.com/karenyov/GameReversi/blob/master/img-project/tabuleiro.jpg)
+
 
 # Requisitos:
 * Eclipse IDE
